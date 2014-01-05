@@ -6,7 +6,9 @@ various test benchmark results for the raspberry pi using a number of web server
 Environment
 ==================
 Tools: apache-jmeter2.10
+
 Network : Raspberry pi and Test computer connected to a Cisco EPC2325 router through a Lan interface (RJ-45 cable)
+
 Type of tests: Light use (10 concurrent users, 1000 iterations), Heavy use (100 concurrent users, 100 iterations)
 
 Types of tests
