@@ -32,4 +32,4 @@ Image Test: Loading 20 images. Images randomly drawn from the caltech 101 image 
 
 Large Text file test: 1 MB text file. Text drawn from the loren ipsum generator.
 
-SQL test: Read one record from a sample database from oracle. Data consists of 490,000 records
+SQL test: Read one record from a sample database from oracle. Data consists of 490,000 records.
