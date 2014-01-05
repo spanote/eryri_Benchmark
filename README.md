@@ -16,6 +16,7 @@ Types of tests
 Simple HTML Test: Simple short HTML page with text stating "Welcome to Raspberry Pi Test page" (80 bytes) 
 
 PHP test : A series of processes consisting of 
+
 1. randomly generating an array of 1000 numbers 
 
 2. sorting the numbers in the array
