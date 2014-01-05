@@ -29,7 +29,7 @@ PHP test : A series of processes consisting of
 
 6. Outputing the current system data and time.
 
-Image Test: Loading 20 images. Images randomly drawn from the caltech 101 image set http://www.vision.caltech.edu/Image_Datasets/Caltech101/Caltech101.html#Download one each from the twenty categories
+Image Test: Loading 20 images. Images randomly drawn from the caltech 101 image set one each from twenty categories
 
 Large Text file test: 1 MB text file. Text drawn from the loren ipsum generator.
 
